@@ -1,0 +1,23 @@
+{
+    "name": "cool-embers",
+    "displayName": "cool-embers",
+    "description": "A beautiful cool dark theme crafted by your friends at Emberly.",
+    "publisher": "emberlydigital",
+    "repository": "coolembers",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cool Embers",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cool Embers-color-theme.json"
+            }
+        ]
+    }
+}
